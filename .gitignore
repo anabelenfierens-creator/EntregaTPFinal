@@ -1,0 +1,6 @@
+# IGNORAR TODO EN LA RAIZ
+*
+# EXCEPCIONES: ¡SOLO SUBIR LA CARPETA DEL TP Y EL .GITIGNORE!
+!EntregaTPFinal/
+# Incluimos el .gitignore
+!.gitignore
